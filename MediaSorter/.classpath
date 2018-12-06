@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="lib/log4j-over-slf4j-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.5.10.jar"/>
+	<classpathentry kind="lib" path="lib/streambaby_mp4.jar"/>
+	<classpathentry kind="lib" path="lib/logback-classic-0.9.18.jar"/>
+	<classpathentry kind="lib" path="lib/logback-core-0.9.18.jar"/>
+	<classpathentry kind="lib" path="lib/simple-log.jar"/>
+	<classpathentry kind="lib" path="lib/metadata-extractor-2.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/mediautil-1.0.jar"/>
+	<classpathentry kind="lib" path="lib/swt.jar"/>
+	<classpathentry kind="lib" path="lib/swt-debug.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.commands_3.8.1.v20161221-1651.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.swt.win32.win32.x86_64_3.105.3.v20170228-0512.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.core.runtime_3.12.0.v20160606-1342.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.jface_3.12.2.v20170113-2113.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.equinox.common_3.8.0.v20160509-1230.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
